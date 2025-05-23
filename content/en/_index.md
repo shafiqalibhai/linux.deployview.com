@@ -2,25 +2,23 @@
 title: Goldydocs
 ---
 
-{{< blocks/cover title="Welcome to Goldydocs: A Docsy Example Project!" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-  Download <i class="fab fa-github ms-2 "></i>
-</a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
+{{< blocks/cover title="Welcome to DeployView Linux!" image_anchor="top" height="full" >}}
+
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
-
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+GNUSL3S LINUX OS is a versatile and comprehensive distribution that comes with a rich selection of pre-installed software for various purposes. Whether you are a molecular biologist, an IT security professional, a system administrator, or a home server user, you will find the tools and applications you need in this distribution. You can boot from the DVD and enjoy a user-friendly graphical interface, useful recovery tools, and current libraries. You can also access bioinformatics applications like EMBOSS and Primer3, security tools for penetration testing and vulnerability analysis, and unofficial network drivers that support many wired and wireless cards. If you want to develop or compile your own software, you will also find a full range of development tools and editors. GNUSL3S LINUX OS is designed to meet your needs and preferences with ease and flexibility.
+
+Category: Desktop, Development, Live Medium, Scientific, Forensics, Server, Security, Specialist, Rescue
+
+Desktop: KDE, XFce, Fluxbox, IceWM
+
+Based on: Slackware, SLAX
+
+Architecture: i486 (32 bit)
+
 {{% /blocks/lead %}}
 
 
